@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Rakib
-#### Web Developer
 ![Web Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-1/c0.21.200.200a/p200x200/189074521_1123071051506470_7788978125537977314_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=7206a8&_nc_ohc=6hL5038lnCkAX8VQIrY&_nc_ht=scontent.fdac22-1.fna&oh=02560e2e5add5b90acdbfcfe3b8f09b7&oe=6177FE5A)
+## Hi there 👋, I'm Rakib
+### Web Developer
+
 
 I am a Professional Web Designer and a Web Developer . With over one year of career experience, I have Design a broad range of technical, business, and creative skills. I love to work on projects where I can directly bring positive changes to the lives of people. My strong suit is understanding the digital landscape, the importance of the bottom line, and time management.
 
